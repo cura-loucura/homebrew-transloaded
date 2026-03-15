@@ -1,6 +1,6 @@
 cask "transloaded" do
   version "1.0.0"
-  sha256 "5647b96c5bb9d21d31e82e77ae23aeba2beff63594bf172400280bd1cca6622e"
+  sha256 "9f25ccf387735a02997794a80b07531186c76c27ec1a8699dea6f26685b9413e"
 
   url "https://github.com/cura-loucura/homebrew-transloaded/releases/download/v#{version}/Transloaded-#{version}.dmg"
   name "Transloaded"
